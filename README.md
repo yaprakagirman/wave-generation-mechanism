@@ -6,6 +6,12 @@ An Arduino-controlled electromechanical prototype that generates repeatable wave
 
 ![Mechanical wave paddle prototype](media/mechanical_prototype.jpg)
 
+## Project Team
+
+![Yaprak Ağırman and Samet Erdoğan working on the wave generation prototype](media/project_team.jpg)
+
+*Yaprak Ağırman and Samet Erdoğan during the assembly and testing of the wave generation mechanism.*
+
 ## Features
 
 - Real-time speed control with a 10 kΩ potentiometer
